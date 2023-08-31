@@ -13,21 +13,3 @@
 * It will not accept empty input.
 * it will give you  alert if city name not is matched with api data.
   
-
-
-### Snapshot
-
-* Default 
-<img src="ss/demo1.png" width="100%">
-
-* when you enter any valid city
- <img src="ss/demo.png" width="100%">
-
-* when you don't enter anything 
- <img src="ss/empty.png" width="100%">
-
-* when entered city doesn't match with data
- <img src="ss/bad.png" width="100%">
-
-
-
